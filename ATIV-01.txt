@@ -1,0 +1,23 @@
+1. Explique, com suas palavras, o que é machine learning?
+
+R: é o aprendizado da máquina de acordo com dados de treinamento para que ela possa aprender os tipos de ações para que ela foi configurada e treinada.
+
+
+2. Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em machine learning.
+
+R: Conjunto de treinamento tem a função da máquina aprender através de dados. O conjunto de validação faz testes durante o treinamento da máquina para validação do modelo, ou seja, se está aprendendo da forma correta. O conjunto de teste faz a avaliação final do modelo.
+
+
+3. Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento.
+
+R: Utilizaria média, moda e mediana dos dados existentes.
+
+
+4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
+
+R: Matriz de confusão organiza as escolhas do modelo de forma que se foram feitas de forma correta ou não.
+
+
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
+
+R: Áreas de saúde, de transporte e agricultura.
